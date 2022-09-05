@@ -1,0 +1,7 @@
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\marce\Desktop\G5-ED-Martha\Primeros pasos con C#\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
